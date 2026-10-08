@@ -14,7 +14,7 @@
   <a href="mailto:karangsawo123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=karangsawo123&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DickyAndrean07&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -79,7 +79,7 @@ Saya adalah Junior Web Developer yang berfokus pada **penerjemahan proses bisnis
   <tr>
     <td width="50%" valign="top">
 
-### 💰 [Nabungin](https://github.com/karangsawo123/nabungin)
+### 💰 [Nabungin](https://github.com/DickyAndrean07/nabungin)
 **Smart Savings & Personal Finance Planner**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-nabungin--drab.vercel.app-6C63FF?style=flat-square&logo=vercel)](https://nabungin-drab.vercel.app)
@@ -100,10 +100,10 @@ Berangkat dari kendala nyata rekan saya dalam konsistensi menabung. Saya meranca
 </td>
     <td width="50%" valign="top">
 
-### 📋 [Sistem Proker KKN](https://github.com/karangsawo123/proker-kkn)
+### 📋 [Sistem Proker KKN](https://github.com/DickyAndrean07/proker-kkn)
 **Business Workflow Digitalization System**
 
-[![GitHub Repo](https://img.shields.io/badge/Lihat%20Repo-proker--kkn-181717?style=flat-square&logo=github)](https://github.com/karangsawo123/proker-kkn)
+[![GitHub Repo](https://img.shields.io/badge/Lihat%20Repo-proker--kkn-181717?style=flat-square&logo=github)](https://github.com/DickyAndrean07/proker-kkn)
 
 Digitalisasi alur kerja dan sistem pelaporan program kerja KKN dari proses manual menjadi dashboard web terpusat yang bisa diakses seluruh anggota tim.
 
@@ -126,13 +126,13 @@ Digitalisasi alur kerja dan sistem pelaporan program kerja KKN dari proses manua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karangsawo123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangsawo123&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=DickyAndrean07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DickyAndrean07&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karangsawo123&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DickyAndrean07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ Digitalisasi alur kerja dan sistem pelaporan program kerja KKN dari proses manua
 | 💼 LinkedIn | [linkedin.com/in/dickyandrean](https://www.linkedin.com/in/dickyandrean) |
 | 📧 Email | [karangsawo123@gmail.com](mailto:karangsawo123@gmail.com) |
 | 🌐 Live Project | [nabungin-drab.vercel.app](https://nabungin-drab.vercel.app) |
-| 💻 GitHub | [github.com/karangsawo123](https://github.com/karangsawo123) |
+| 💻 GitHub | [github.com/DickyAndrean07](https://github.com/DickyAndrean07) |
 
 </div>
 
